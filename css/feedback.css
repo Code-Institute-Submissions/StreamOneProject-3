@@ -1,0 +1,65 @@
+.navbar-fixed-top {
+	margin-top: 25px;
+	position: static;
+}
+
+body {
+	background-color: #DCDCDC;
+}
+.box {
+	font-family: 'Delius Swash Caps', cursive;
+	background-color: lavender;
+	width: 450px;
+	height: 500px;
+	border: 3px solid black;
+	text-align: left;
+	margin: auto;
+	border-radius: 8px;
+	font-size: 22px;
+	box-shadow: -5px 7px 20px black;
+}
+form {
+	width: 400px;
+	margin: 10px;
+	text-align: center;
+}
+
+.label {
+	display: inline-block;
+    float: left;
+    width: 100px;
+    color: black;
+    font-size: 30px;
+}
+
+#Comment {
+	width: 350px;
+	text-align: top;
+}
+
+img {
+	margin-top: 12px;
+}
+
+legend {
+	text-align: center;
+	text-decoration: underline;
+}
+
+textarea {
+	display: block;
+	margin:auto;
+}
+
+button {
+}
+
+p {
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	font-size:30px;
+	text-decoration: underline;
+}

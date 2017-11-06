@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Straight to the point</title>
+  <link rel="icon" href="favicon.ico">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="css/custom.css">
+  <link rel="stylesheet" type="text/css" href="css/feedback.css">
+  <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Delius+Swash+Caps" rel="stylesheet">
+</head>
+<body>
+<header></header>
+<nav class="navbar navbar-fixed-top">		
+<div class="container">
+<div class=" navbar-header">
+<a class="navbar-brand" href="Index.html">Straight to the point</a>
+</div>	    
+<ul class="nav navbar-nav navbar-right">
+	<li><a href="About.html">About</a></li>
+	<li><a href="History.html">History</a></li>
+	<li><a href="Pictures.html">Pictures</a></li>
+</ul>
+</div>
+</nav>
+
+<div class="box">
+  <h1>Feedback</h1>
+<form>
+ 	<p>How would you rate the website?</p>
+  <input type="radio"  name="form" value="Good" required>Good
+  <input type="radio"  name="form" value="ok" required>ok
+  <input type="radio"  name="form" value="Bad" required>Bad
+</form>
+<p>What was your favourite page?</p>
+<form>
+  <input type="radio" name="form" value="Pic" required>Pictures
+  <input type="radio" name="form" value="History" required>History
+  <input type="radio" name="form" value="About" required>About
+</form>
+
+<p>Did you find the information useful?</p>
+<form>
+  <input type="radio" name="form" value="Pic" required>Yes
+  <input type="radio" name="form" value="About" required>No
+</form>
+
+<p>Anything you would like to add?</p>
+<textarea rows="2" cols="30" placeholder="enter comments here...">
+</textarea>
+<form>
+<button onclick="myFunction()">Submit</button>           	 
+</form>
+</div>
+
+<script>
+function myFunction() {
+    alert("Thank you for your Feedback!");
+}
+</script>
+<footer></footer>
+</body>
+</html>

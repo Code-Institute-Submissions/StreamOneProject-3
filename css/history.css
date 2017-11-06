@@ -1,0 +1,44 @@
+	
+.navbar-fixed-top {
+		margin-top: 25px;
+		position: static;
+}
+	
+body {
+		background-color:#DCDCDC ;
+}
+
+footer {
+	height: 10px;
+	width: 100%;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: right;
+	margin-top: -10px;
+}
+
+h3 {
+	text-align: left;
+	margin-top: -10px;
+	font-size: 30px;
+
+p {
+	text-align: right;
+	color: black;
+}
+/*---------media--------*/
+@media screen and (max-width: 400px) {
+.box {
+	width: 100%;
+	margin: auto;
+}
+
+h2 {
+	text-align: left;
+}
+}
