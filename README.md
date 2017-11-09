@@ -97,3 +97,6 @@ There is a submit button which when clicked, a javascript message appears, thank
 All the pages were tested and adjusted with css to make sure they are mobile and tablet friendly.
 
 All the pages were tested and validated using The W3C Markup Validation Service and cleared of any errors.
+
+#### Mockup
+I used a mockup tool called Pencil to do a basic design for the website. As time went on I changed things a little and used pen and paper aswell.
