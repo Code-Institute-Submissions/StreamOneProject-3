@@ -50,7 +50,7 @@ When you click on an image tab, it will take you to the page it says it is.
 ## About.html
 This is the page describing what the website is about.
 
-he navigation bar at the top left, has the name of the website which when clicked takes you to the Home page.
+The navigation bar at the top left, has the name of the website which when clicked takes you to the Home page.
 
 To the right of the nav bar, tabs for History, Pictures and Feeback. When clicked takes you to the selected page.
 
@@ -68,7 +68,7 @@ There are images and information when you scroll down the page on each side of a
 Dates starting from the oldest information at the top to the most recent at the bottom.
 
 ## Pictures.html
-he navigation bar at the top left, has the name of the website which when clicked takes you to the Home page.
+The navigation bar at the top left, has the name of the website which when clicked takes you to the Home page.
 
 To the right of the nav bar, tabs for About, History and Feeback. When clicked takes you to the selected page.
 
@@ -83,7 +83,7 @@ To close a selected image you click the cross at the top right.
 Below the box there is a text credit and an instagram link to the photographers page.
 
 ## Feeback.html
-he navigation bar at the top left, has the name of the website which when clicked takes you to the Home page.
+The navigation bar at the top left, has the name of the website which when clicked takes you to the Home page.
 
 To the right of the nav bar, tabs for About, History and Feeback. When clicked takes you to the selected page.
 
