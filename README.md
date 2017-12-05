@@ -11,7 +11,7 @@ The target audience is artists and people with an interest of this subject.
 
 The website has 5 pages.
 
-1.Straight to the point(Home page) - Index.html
+1.Straight to the point(Home page) - index.html
 
 2.About - About.html
 
@@ -30,7 +30,7 @@ The website has 5 pages.
 
 4.Bootstrap (navigation bar)
 
-## Index.html
+## index.html
 This is the Home page.
 
 The navigation bar at the top left, has the name of the website which when clicked takes you to the Home page.
