@@ -73,7 +73,7 @@ body {
 	max-width:900px;
 	height:300px;
 	margin: auto;
-	background-image: url(../img_2.jpg);
+	background-image: url(../IMG_2.jpg);
     background-size: cover;
     color: black;
     font-family: Lobster;
@@ -97,7 +97,7 @@ body {
     width: 447px;
     height:250px;
     margin-right: -5px;
-    background-image: url(../img_4.jpg);
+    background-image: url(../IMG_4.jpg);
     background-size:cover;
     font-family: Lobster;
     box-shadow: -5px 7px 20px black;
@@ -117,7 +117,7 @@ body {
     height:250px;
     margin-left: 5px;
     margin-right: auto;
-    background-image: url(../img_5.jpg);
+    background-image: url(../IMG_5.jpg);
     background-size:cover;
     font-family: Lobster;
     box-shadow: -5px 7px 20px black;
@@ -376,6 +376,6 @@ img {
 }
 
 #water {
-    background-image: url(../img_14.jpg);
+    background-image: url(../IMG_14.jpg);
     background-size: cover;
 }
