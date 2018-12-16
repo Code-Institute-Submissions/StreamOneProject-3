@@ -1,9 +1,13 @@
 # Stream One Project - **Straight to the Point**
 
+## A Front End Development website built with HTML, CSS, Javascript and Bootstrap
+
+```
 https://wadlow23.github.io/StreamOneProject/index.html
+```
 
 ## About
-I chose to create my own project using the subject of the **Pencil**.
+I chose to create my own project using the subject the **Pencil**.
 
 I tried to take an artistic approach by using my own photography and keep it minimalistic for a simple and clean look.
 
