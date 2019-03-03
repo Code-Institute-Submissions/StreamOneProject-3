@@ -34,7 +34,7 @@ The website has 5 pages.
 
 3.JavaScript
 
-4.Bootstrap (navigation bar)
+4.Bootstrap
 
 ## index.html
 This is the Home page.
